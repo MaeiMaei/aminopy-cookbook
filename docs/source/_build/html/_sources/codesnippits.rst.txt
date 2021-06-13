@@ -1,0 +1,23 @@
+Code samples
+=============================================
+These are code snippits I use myself.
+
+Subclient login skeleton
+------------------------
+.. code-block:: python
+
+    import amino
+
+    client = amino.Client()
+    client.login(email='YOUR_EMAIL', password='YOUR_PASSWORD')
+    subclient = amino.SubClient(comId='YOUR_COMMUNITY_ID', profile=client.profile) 
+
+Loop through subclient chats
+----------------------------
+.. code-block:: python
+
+    chats = subclient.get_chat_threads()
+    for name, id in zip(chats.title, chats.chatId):
+        print(name, id) 
+        
+You could alternatively swap out the print for your logic.
