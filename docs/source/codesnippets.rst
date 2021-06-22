@@ -32,7 +32,7 @@ Get ID from URL (UserID, BlogID, ChatID)
 While I would normally add print(dir()) to an obscure object like this, the most interesting thing is objectId to convert Amino URLs to IDs. You use these in functions.
 
 Get Community Object from AminoID
-----------------------------
+---------------------------------
 
 .. code-block:: python
 
