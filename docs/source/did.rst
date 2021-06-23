@@ -39,7 +39,7 @@ Didssec is a 32 character long hexadecimal string. The didssec is hardcoded in t
 
 The didssec is stored in /res/values/strings.xml.
 
-.. figure:: fridacalls.bmp
+.. figure:: _static/images/fridacalls.bmp
 
 
 Safety

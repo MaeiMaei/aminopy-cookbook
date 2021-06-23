@@ -36,7 +36,7 @@ Changing Device ID
 ^^^^^^^^^^^^^^^^^^
 When you start an Amino.py script, it *should* create a device.json file with a DeviceID for you.
 
-.. figure:: devicejson.png
+.. figure:: _static/images/devicejson.png
    :alt: Example of device.json with redacted DeviceID 
 
 While that should normally do fine, you can swap the "device_id" value out with a new one. For example, in case your ID got smited or you want to bypass some restriction.
@@ -54,16 +54,16 @@ The advantage of this is that it opens the login function up to be used more dyn
 *Getting that ID is your job however*, the easiest way is to `join Slimakoi & Friends <https://discord.gg/eMJ6WSkUyA>`_, go into #bot-commands and type "f!deviceid".
 Fluffy is the in-house Device ID generator, you can request 1 ID every 6 hours (4/day).
 
-.. figure:: fluffy_demo.png
+.. figure:: _static/images/fluffy_demo.png
     :alt: Example of Fluffy, sending a deviceID
 
 Alternatively, you can sniff out the ID from the network traffic of the mobile app. This is a lot more foolproof, because unless Amino fundimentally changes how the ID's work, you should always be able to get a valid one.
 Charles Proxy is a valid option for this, `see this workaround (requires root) <https://blog.ropnop.com/configuring-burp-suite-with-android-nougat/>`_ to get it working above Android 7.
 
-.. figure:: sniffedtree.png
+.. figure:: _static/images/sniffedtree.png
     :alt: Image showing network structure in Charles Proxy
 
-.. figure:: sniffingresult.png
+.. figure:: _static/images/sniffingresult.png
     :alt: Result of device request traffic
 
 .. _proxies:

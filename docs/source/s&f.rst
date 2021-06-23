@@ -561,7 +561,7 @@ Only available for versions 1.2.5 or above
    + <$User1$> will be "id of user 1"
    + <$User2$> will be "id of user 2"
 
-.. figure:: mentionlookalike.png
+.. figure:: _static/images/mentionlookalike.png
 
 Store users when they send a message (Global)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
