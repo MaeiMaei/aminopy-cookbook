@@ -18,6 +18,10 @@ While I'm open to contributions and suggestions, there is some topics I'd like t
 ***Pretend that it doesn't exist***,  
  I don't wish to support code or tools that effectively ddos Amino's servers. I can't stop what you do in your free time, but I don't want to host it here.
 
+### Online time farming
+Coin farming and online time farming use the same method, thus the same for Coin farming also applies to farming online time.
+
+
 ### Automated Advertisement
 Ads are annoying, you shouldn't advertise your website, servers, community or chat randomly to users. Check with the rules of the community and use communities specialised for ads otherwise.
 
