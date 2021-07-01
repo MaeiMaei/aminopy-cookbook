@@ -2,6 +2,8 @@
 Session ID Bible
 =============================================
 
+.. note:: This is bound to become outdated as Team Amino is releasing an security update to address the libraries existence. I will include an warning in a timely manner if this happens. 
+
 :subscript:`I blatantly copy pasted this from okok#7711, he wrote all of this.`
 
 `Download to original <https://cdn.discordapp.com/attachments/715911730550800517/851555290577895456/SID_Bible.docx>`_

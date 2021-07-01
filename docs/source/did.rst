@@ -1,6 +1,8 @@
 Device ID Bible
 ============================================= 
 
+.. note:: This is bound to become outdated as Team Amino is releasing an security update to address the libraries existence. I will include an warning in a timely manner if this happens. 
+
 :subscript:`Most of this is from okok#7711, I updated it with his help.`
 
 `Download to original <https://cdn.discordapp.com/attachments/844596672574652416/853623881180774410/Device_ID_Generation.docx>`_
