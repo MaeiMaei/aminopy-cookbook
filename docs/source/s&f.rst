@@ -3,6 +3,8 @@ Slimekoi & Friends mirror
 =============================================
 This is a mirror of Slimekoi & Friend's stuff, minus the parts I've covered in here, note that these are written from Slimakoi's perspective and not mine.
 
+.. warning:: These examples are from an old version (<2.x.x) of Amino.py!
+
 FAQ
 ---
 
