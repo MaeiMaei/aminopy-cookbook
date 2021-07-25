@@ -2,7 +2,7 @@
 Workarounds
 =============================================
 
-Wait, aren't you selling to me the FAQ section of Slimakoi in a cheap ReadTheDocs page?
+Wait, aren't you selling to me the FAQ section of Slimakoi & Friends in a cheap ReadTheDocs page?
 
 :doc:`No, this is. <s&f>`
 
@@ -24,8 +24,9 @@ Alternatively, you could revert back to 3.8 which supports both though deprecate
 
 amino.lib.util.exceptions.ActionNotAllowed: 'Action not allowed.' 
 -----------------------------------------------------------------
-Due how unspecific this error is, it's hard to track down what specifically causes the issue for you without full support.
-Some generic fixes are :ref:`changing your DeviceID <did>` or :ref:`using a proxy <proxies>` to bypass any blocks (if you have any).
+Due how unspecific this error is, it's hard to track down what specifically causes the issue for you without full support. 
+Check what exactly you're accessing and if you even have permission to access them.
+Some generic fixes are :ref:`changing your DeviceID <did>` or :ref:`using a proxy <proxies>` to bypass blocks (if you have any).
 
 .. note:: Feel free to ask for help in `Slimakoi & Friends <https://discord.gg/eMJ6WSkUyA>`_ if your issue isn't fixed after these fixes. Bring up that you tried these, please.
 
@@ -71,9 +72,11 @@ Charles Proxy is a valid option for this, `see this workaround (requires root) <
 Using proxies
 ^^^^^^^^^^^^^
 .. This remark is paranoid because connections are HTTPS, I'm leaving it here so I can add it back in case that's a wrong assumption.
-.. .. warning:: Proxies are hosted by a third-party and can be malicious, especially when free. The owner has unrestricted access to what you're sending them, use at your risk or switch to a paid service. 
+.. .. warning:: Proxies are hosted by a third-party and can be malicious, especially when free. The owner has unrestricted access of the traffic you send, use at your risk or switch to a paid service. 
 
 .. important:: Your Proxy needs to be **HTTPS**, else it will not connect.
+
+.. warning:: PROXIES ARE NOT IMPLIMENTED AS OF 2.0.0, ALWAYS LOOK AT THE BRIGHT SIDE OF LIFE
 
 A proxy is a middleman between you and what you want to access (Amino's servers in this case), doing the request for you with the IP of that proxy.
 
