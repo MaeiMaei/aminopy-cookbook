@@ -5,8 +5,6 @@ I'm by no means an expert, this repo is free for contribution.
 
 Take a look at the CONTRIBUTING.md and enjoy!
 
-.. warning:: Please note that most code has not been updated for the 2.0.0 Update as of July 2021!
-
 .. toctree::   
    :maxdepth: 3
    :numbered:
