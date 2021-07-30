@@ -20,8 +20,8 @@ Take a look at the CONTRIBUTING.md and enjoy!
    :numbered:
    :caption: Mirrored Content:
    
-   sid
    did
+   sid
    s&f
 
 Oh yeah, if you find this boring and are disappointed, have a bunch of opossums eating bananas as sorry.
