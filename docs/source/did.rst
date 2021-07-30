@@ -5,6 +5,8 @@ Device ID Bible
 
 :subscript:`Most of this is from okok#7711, I updated it with his help.`
 
+.. warning:: 2021-07-30T10:03:56+00:00: It appears that the day we've all been waiting for has finally struck, the infomation here is probably invalid because Team Amino has pushed a new DeviceID system, so this page more serves as historical document and to understand the rough job of DeviceIDs at it's most transparent point than anything pragmatic for the moment. Though I'm unsure if okok actually would like to share more infomation if they end up breaking it, how much it hurts me to write. Duck and cover.
+
 `Download to original <https://cdn.discordapp.com/attachments/844596672574652416/853623881180774410/Device_ID_Generation.docx>`_
 
 Info
