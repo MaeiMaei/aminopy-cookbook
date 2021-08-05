@@ -42,13 +42,13 @@ When you start an Amino.py script, it *should* create a device.json file with a 
 
 While that should normally do fine, you can swap the "device_id" value out with a new one. For example, in case your ID got smited or you want to bypass some restriction.
 
-Alternatively you can also add the deviceId parameter to your login function like this:
+Alternatively you can also add the deviceId parameter to your client function like this:
 
 .. code-block:: python
 
-    client.login(email='YOUR_EMAIL', password='YOUR_PASSWORD', deviceId='variable or string here')
+    client = amino.Client(deviceId='variable or string here')
 
-The advantage of this is that it opens the login function up to be used more dynamically, like in loops.
+The advantage of this is that it opens the function up to be used more dynamically, like in loops.
 
 
 
