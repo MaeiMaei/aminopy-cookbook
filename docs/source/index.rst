@@ -17,6 +17,7 @@ Take a look at the CONTRIBUTING.md and enjoy!
    glossary
    codesnippets
    workarounds
+   julymigr
 
 
 .. toctree::   
