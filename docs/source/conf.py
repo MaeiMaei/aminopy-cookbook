@@ -18,11 +18,11 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Amino.py Cookbook'
-copyright = "2021, Mae's of the Mae's"
-author = "Mae's of the Mae's"
+copyright = "- Powered by energy drinks and gender dysphoria"
+author = "MaeMae"
 
 # The full version, including alpha/beta/rc tags
-release = '1.1.0'
+release = '1.1.1'
 
 
 # -- General configuration ---------------------------------------------------
