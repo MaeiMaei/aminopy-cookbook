@@ -1,7 +1,7 @@
 Welcome to the Amino.py Cookbook!
 =============================================
 
-.. danger:: 2021-08-04T13:23:56+00:00: Amino.py stopped working due new security update, okok has announced in the Discord already that he retires from work on Amino related projects in the first place and Slimakoi is uncertain if he's going to fix it. Sniffing values certainly works, though that puts Amino.py in a weird spot. I'm putting this project in hibernation until this blows over, feel free to fork it.    
+.. note:: I'm slowly taking out the cookbook out hibernation again, might put it back to sleep if something bad happens.
 
 
 I lied to you! This isn't a cookbook, it's more or less a reference manual. These are just some snippets I often come back to.
