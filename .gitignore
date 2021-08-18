@@ -63,3 +63,4 @@ share/
 # Ignore Sphinx Build directory as it is not needed
 build/
 docs/source/_build/
+device.json

@@ -1,7 +1,7 @@
 Welcome to the Amino.py Cookbook!
 =============================================
 
-.. note:: I'm slowly taking out the cookbook out hibernation again, might put it back to sleep if something bad happens.
+.. warning:: 2021-08-18T22:21:40+00:00 - Amino.py is not active anymore. 
 
 
 I lied to you! This isn't a cookbook, it's more or less a reference manual. These are just some snippets I often come back to.
